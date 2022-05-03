@@ -1,0 +1,943 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.996463,40.756275 ]
+    },
+    "properties": {
+    "name":"Chef's Table at Brooklyn Fare",
+    "stars":3,
+    "type":"contemporary",
+    "pricepertable":" $ 430.00 ",
+    "adjective":"world class"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.982606,40.76819 ]
+    },
+    "properties": {
+    "name":"Per Se",
+    "stars":3,
+    "type":"French",
+    "pricepertable":" $ 325.00 ",
+    "adjective":"world class"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.982536,40.768394 ]
+    },
+    "properties": {
+    "name":"Masa",
+    "stars":3,
+    "type":"Japanese",
+    "pricepertable":" $ 1,034.00 ",
+    "adjective":"world class"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98732,40.74168 ]
+    },
+    "properties": {
+    "name":"Eleven Madison Park",
+    "stars":3,
+    "type":"modern",
+    "pricepertable":" $ 335.00 ",
+    "adjective":"world class"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98181,40.76133 ]
+    },
+    "properties": {
+    "name":"Le Bernardin",
+    "stars":3,
+    "type":"seafood",
+    "pricepertable":" $ 370.00 ",
+    "adjective":"world class"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.007893,40.742956 ]
+    },
+    "properties": {
+    "name":"L'atelier de Joel Rubochon",
+    "stars":2,
+    "type":"French",
+    "pricepertable":" $ 280.00 ",
+    "adjective":"high class"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.009076,40.718713 ]
+    },
+    "properties": {
+    "name":"Jungsik",
+    "stars":2,
+    "type":"Korean",
+    "pricepertable":" $ 165.00 ",
+    "adjective":"high class"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00561,40.71684 ]
+    },
+    "properties": {
+    "name":"Atera",
+    "stars":2,
+    "type":"contemporary",
+    "pricepertable":" $ 195.00 ",
+    "adjective":"high class"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99157,40.724781 ]
+    },
+    "properties": {
+    "name":"Momofuku Ko",
+    "stars":2,
+    "type":"contemporary",
+    "pricepertable":" $ 195.00 ",
+    "adjective":"high class"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.982661,40.754311 ]
+    },
+    "properties": {
+    "name":"Gabriel Kreuther",
+    "stars":2,
+    "type":"contemporary",
+    "pricepertable":" $ 175.00 ",
+    "adjective":"high class"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.977866,40.756412 ]
+    },
+    "properties": {
+    "name":"Ichimura at Uchu",
+    "stars":2,
+    "type":"Japanese",
+    "pricepertable":" $ 330.00 ",
+    "adjective":"high class"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.976811,40.760854 ]
+    },
+    "properties": {
+    "name":"The Modern",
+    "stars":2,
+    "type":"contemporary",
+    "pricepertable":" $ 228.00 ",
+    "adjective":"high class"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9723,40.7609 ]
+    },
+    "properties": {
+    "name":"Aquavit",
+    "stars":2,
+    "type":"Scandinavian",
+    "pricepertable":" $ 200.00 ",
+    "adjective":"high class"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9676,40.7668 ]
+    },
+    "properties": {
+    "name":"Daniel",
+    "stars":2,
+    "type":"French",
+    "pricepertable":" $ 220.00 ",
+    "adjective":"high class"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9336,40.7051 ]
+    },
+    "properties": {
+    "name":"Blanca",
+    "stars":2,
+    "type":"contemporary",
+    "pricepertable":" $ 195.00 ",
+    "adjective":"high class"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9816,40.7691 ]
+    },
+    "properties": {
+    "name":"Jean Georges",
+    "stars":2,
+    "type":"French",
+    "pricepertable":" $ 295.00 ",
+    "adjective":"high class"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9829,40.7442 ]
+    },
+    "properties": {
+    "name":"Atomix",
+    "stars":2,
+    "type":"Korean",
+    "pricepertable":" $ 205.00 ",
+    "adjective":"high class"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9664,40.7123 ]
+    },
+    "properties": {
+    "name":"Aska",
+    "stars":2,
+    "type":"Scandinavian",
+    "pricepertable":" $ 295.00 ",
+    "adjective":"high class"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0157,40.7126 ]
+    },
+    "properties": {
+    "name":"L'Appart",
+    "stars":1,
+    "type":"French",
+    "pricepertable":" $ 85.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0082,40.7354 ]
+    },
+    "properties": {
+    "name":"Wallse",
+    "stars":1,
+    "type":"Austrian",
+    "pricepertable":" $ 75.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0054,40.7253 ]
+    },
+    "properties": {
+    "name":"Vestry",
+    "stars":1,
+    "type":"modern",
+    "pricepertable":" $ 45.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0021,40.7378 ]
+    },
+    "properties": {
+    "name":"Done Angie",
+    "stars":1,
+    "type":"Italian",
+    "pricepertable":" $ 60.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0078,40.7065 ]
+    },
+    "properties": {
+    "name":"Crown Shy",
+    "stars":1,
+    "type":"American",
+    "pricepertable":" $ 55.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9935,40.762 ]
+    },
+    "properties": {
+    "name":"Kochi",
+    "stars":1,
+    "type":"Korean",
+    "pricepertable":" $ 50.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.000378,40.727643 ]
+    },
+    "properties": {
+    "name":"ZZ's Clam Bar",
+    "stars":1,
+    "type":"seafood",
+    "pricepertable":" $ 60.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0002,40.728 ]
+    },
+    "properties": {
+    "name":"Carbone",
+    "stars":1,
+    "type":"Italian",
+    "pricepertable":" $ 45.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9913,40.7413 ]
+    },
+    "properties": {
+    "name":"Cote",
+    "stars":1,
+    "type":"Korean",
+    "pricepertable":" $ 50.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9947,40.7246 ]
+    },
+    "properties": {
+    "name":"Estela",
+    "stars":1,
+    "type":"American",
+    "pricepertable":" $ 55.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.003,40.7245 ]
+    },
+    "properties": {
+    "name":"Hirohisa",
+    "stars":1,
+    "type":"Japanese",
+    "pricepertable":" $ 60.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0002,40.7191 ]
+    },
+    "properties": {
+    "name":"Le Coucou",
+    "stars":1,
+    "type":"French",
+    "pricepertable":" $ 43.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9931,40.7408 ]
+    },
+    "properties": {
+    "name":"Noda",
+    "stars":1,
+    "type":"Japanese",
+    "pricepertable":" $ 47.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.007426,40.732928 ]
+    },
+    "properties": {
+    "name":"Jeju Noodle Bar",
+    "stars":1,
+    "type":"Korean",
+    "pricepertable":" $ 45.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0014,40.7383 ]
+    },
+    "properties": {
+    "name":"Kosaka",
+    "stars":1,
+    "type":"Japanese",
+    "pricepertable":" $ 56.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.004487,40.731711 ]
+    },
+    "properties": {
+    "name":"Sushi Nakazawa",
+    "stars":1,
+    "type":"Japanese",
+    "pricepertable":" $ 63.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0058,40.7194 ]
+    },
+    "properties": {
+    "name":"Batard",
+    "stars":1,
+    "type":"contemporary",
+    "pricepertable":" $ 46.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9997,40.732 ]
+    },
+    "properties": {
+    "name":"Blue Hill  ",
+    "stars":1,
+    "type":"American",
+    "pricepertable":" $ 48.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9922,40.7404 ]
+    },
+    "properties": {
+    "name":"Odo",
+    "stars":1,
+    "type":"Japanese",
+    "pricepertable":" $ 59.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.994066,40.723985 ]
+    },
+    "properties": {
+    "name":"The Musket Room",
+    "stars":1,
+    "type":"contemporary",
+    "pricepertable":" $ 49.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.989,40.7391 ]
+    },
+    "properties": {
+    "name":"Rezdora",
+    "stars":1,
+    "type":"Italian",
+    "pricepertable":" $ 53.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9811,40.7674 ]
+    },
+    "properties": {
+    "name":"Marea",
+    "stars":1,
+    "type":"seafood",
+    "pricepertable":" $ 64.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9874,40.7413 ]
+    },
+    "properties": {
+    "name":"The Clocktower",
+    "stars":1,
+    "type":"English",
+    "pricepertable":" $ 51.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9879,40.7397 ]
+    },
+    "properties": {
+    "name":"Jua",
+    "stars":1,
+    "type":"Korean",
+    "pricepertable":" $ 55.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9816,40.75238 ]
+    },
+    "properties": {
+    "name":"Sushi Ginza Onodera",
+    "stars":1,
+    "type":"Japanese",
+    "pricepertable":" $ 55.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9948,40.7038 ]
+    },
+    "properties": {
+    "name":"The River Cafe",
+    "stars":1,
+    "type":"contemporary",
+    "pricepertable":" $ 49.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9855,40.729 ]
+    },
+    "properties": {
+    "name":"Tsukimi",
+    "stars":1,
+    "type":"Japanese",
+    "pricepertable":" $ 64.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9778,40.7498 ]
+    },
+    "properties": {
+    "name":"Kajitsu",
+    "stars":1,
+    "type":"Japanese",
+    "pricepertable":" $ 62.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9749,40.7483 ]
+    },
+    "properties": {
+    "name":"Tempura Matsui",
+    "stars":1,
+    "type":"Japanese",
+    "pricepertable":" $ 60.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9735,40.7511 ]
+    },
+    "properties": {
+    "name":"Sushi Yasuda",
+    "stars":1,
+    "type":"Japanese",
+    "pricepertable":" $ 60.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9713,40.7583 ]
+    },
+    "properties": {
+    "name":"Le Jardinier",
+    "stars":1,
+    "type":"French",
+    "pricepertable":" $ 55.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9738,40.7608 ]
+    },
+    "properties": {
+    "name":"Caviar Russe",
+    "stars":1,
+    "type":"contemporary",
+    "pricepertable":" $ 55.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9865,40.7307 ]
+    },
+    "properties": {
+    "name":"Kanoyama",
+    "stars":1,
+    "type":"Japanese",
+    "pricepertable":" $ 57.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9838,40.7501 ]
+    },
+    "properties": {
+    "name":"Ai Fiori",
+    "stars":1,
+    "type":"Italian",
+    "pricepertable":" $ 58.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9885,40.7385 ]
+    },
+    "properties": {
+    "name":"Gramercy Tavern",
+    "stars":1,
+    "type":"American",
+    "pricepertable":" $ 48.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0084,40.7317 ]
+    },
+    "properties": {
+    "name":"Benmo",
+    "stars":1,
+    "type":"Italian",
+    "pricepertable":" $ 52.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9871,40.7359 ]
+    },
+    "properties": {
+    "name":"Casa Mono",
+    "stars":1,
+    "type":"Spanish",
+    "pricepertable":" $ 48.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9892,40.7199 ]
+    },
+    "properties": {
+    "name":"Contra",
+    "stars":1,
+    "type":"contemporary",
+    "pricepertable":" $ 45.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9829,40.7241 ]
+    },
+    "properties": {
+    "name":"Tuome",
+    "stars":1,
+    "type":"contemporary",
+    "pricepertable":" $ 45.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9718,40.7517 ]
+    },
+    "properties": {
+    "name":"Sushi AMANE",
+    "stars":1,
+    "type":"Japanese",
+    "pricepertable":" $ 60.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9862,40.6774 ]
+    },
+    "properties": {
+    "name":"Claro",
+    "stars":1,
+    "type":"Mexican",
+    "pricepertable":" $ 45.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.958201,40.773794 ]
+    },
+    "properties": {
+    "name":"Sushi Noz",
+    "stars":1,
+    "type":"Japanese",
+    "pricepertable":" $ 55.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.964,40.7102 ]
+    },
+    "properties": {
+    "name":"Francie",
+    "stars":1,
+    "type":"Italian",
+    "pricepertable":" $ 57.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9631,40.7104 ]
+    },
+    "properties": {
+    "name":"Meadowsweet",
+    "stars":1,
+    "type":"Mediterranean",
+    "pricepertable":" $ 48.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9626,40.7099 ]
+    },
+    "properties": {
+    "name":"Peter Luger",
+    "stars":1,
+    "type":"American",
+    "pricepertable":" $ 45.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9555,40.7298 ]
+    },
+    "properties": {
+    "name":"Oxomoco",
+    "stars":1,
+    "type":"Mexican",
+    "pricepertable":" $ 47.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9626,40.6729 ]
+    },
+    "properties": {
+    "name":"Oxalis",
+    "stars":1,
+    "type":"American",
+    "pricepertable":" $ 45.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9573,40.7131 ]
+    },
+    "properties": {
+    "name":"The Four Horsemen",
+    "stars":1,
+    "type":"American",
+    "pricepertable":" $ 45.00 ",
+    "adjective":"luxurious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9544,40.7434 ]
+    },
+    "properties": {
+    "name":"Casa Enrique",
+    "stars":1,
+    "type":"Mexican",
+    "pricepertable":" $ 47.00 ",
+    "adjective":"luxurious"
+    }
+  }
+]
+}
